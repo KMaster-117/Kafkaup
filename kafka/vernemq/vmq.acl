@@ -1,0 +1,8 @@
+# ACL for anonymous
+topic #
+
+# ACL for vmquser
+user vmquser
+topic private/#
+
+
